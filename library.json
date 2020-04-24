@@ -3,7 +3,7 @@
   "description": "used to test linking git libraries to PIO projects",
   "authors":
   {
-    "name": "Jeffrey Diament",
+    "name": "Jeffrey Diament"
   },
   "downloadUrl": "https://github.com/jeffreydiament/test-git-lib.git",
   "repository":
