@@ -1,9 +1,16 @@
 {
-  "name": "test-git-lib-add",
-  "version": "1.0.0",
+  "name": "test-git-lib",
+  "description": "used to test linking git libraries to PIO projects",
+  "authors":
+  {
+    "name": "Jeffrey Diament",
+  },
   "repository":
   {
     "type": "git",
     "url": "https://github.com/jeffreydiament/test-git-lib.git"
-  }
+  },
+  "version": "1.0",
+  "frameworks": "*",
+  "platforms": "*"
 }
