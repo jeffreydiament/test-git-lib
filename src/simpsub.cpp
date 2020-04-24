@@ -1,6 +1,6 @@
 #include "simpsub.h"
 
-int sub(int a, int b)
+int subb(int a, int b)
 {
     return (a-b);
 }
