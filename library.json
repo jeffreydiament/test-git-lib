@@ -1,7 +1,9 @@
+{
+  "name": "test-git-lib-add",
+  "version": "1.0.0",
+  "repository":
   {
-    "repository":
-    {
-      "type": "git",
-      "url": "https://github.com/jeffreydiament/test-git-lib.git"
-    }
+    "type": "git",
+    "url": "https://github.com/jeffreydiament/test-git-lib.git"
   }
+}
