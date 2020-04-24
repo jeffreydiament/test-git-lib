@@ -1,4 +1,4 @@
-// #include "simpsub.h"
+#include "simpsub.h"
 
 int sub(int a, int b)
 {
